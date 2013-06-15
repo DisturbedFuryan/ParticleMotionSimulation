@@ -1,0 +1,14 @@
+screen_width: 1024
+screen_height: 768
+fullscreen: 0
+
+using_GPU: 0
+tile_width: 256
+
+number_of_particles: 1000
+max_particle_velocity: 100
+
+duration_(0_=_infinity): 0
+
+output_file_name_(without_extension): result
+particle_graphic_file_name: particle.png
